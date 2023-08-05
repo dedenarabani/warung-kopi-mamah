@@ -1,0 +1,3 @@
+#ide perencanaan warkop mamah
+- membuat ig
+- membuat katalog berbentuk file yang bisa disimpan drive, pake qr kode
